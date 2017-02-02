@@ -1,7 +1,7 @@
 /* inline-block might not work in ie7 */
 
 /* GLOBAL */
-body{background:#262626 url(images/bg.png) repeat-x; color:#F1F1F1; font-family:Arial,sans-serif; font-size:11px; margin:0}
+body{background:#1c1c1c url(images/bg.png) repeat-x; color:#F1F1F1; font-family:Arial,sans-serif; font-size:11px; margin:0}
 h1, h2, h3, h4{margin-top:0; padding:0}
 a, a:visited, a:active{color:#5AF; text-decoration:none}
 a:hover{color:#49D; text-decoration:underline}
@@ -17,7 +17,7 @@ blockquote{background:transparent url(images/blockquote.png) repeat; padding:5px
 input[type="submit"]:focus, input[type="button"]:focus{background:#333}
 input[type="submit"]:active, input[type="button"]:active{background:#5AF}
 select{padding:1px}
-input#file, input[type="file"]{color:#9C9CEE}
+input#file, input[type="file"]{color:#9C9CFF}
 textarea#quickpost{margin:0; padding:0}
 
 /* GENERAL */
