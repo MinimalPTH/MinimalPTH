@@ -1,7 +1,7 @@
 /* inline-block might not work in ie7 */
 
 /* GLOBAL */
-body{background:#1c1c1c url(images/bg.png) repeat-x; color:#F1F1F1; font-family:Arial,sans-serif; font-size:11px; margin:0}
+body{background:#1c1c1c url(images/bg.png) repeat-x; color:#F1F1F1; font-family: tahoma,helvetica,sans-serif; font-size:11px; margin:0}
 h1, h2, h3, h4{margin-top:0; padding:0}
 a, a:visited, a:active{color:#5AF; text-decoration:none}
 a:hover{color:#49D; text-decoration:underline}
@@ -11,7 +11,7 @@ td p{margin:0}
 input,
 input[type="search"], /* to override global.css */
 select,
-textarea {color:#F1F1F1; padding:3px; background:#262626; border:1px solid #9C9C9C; font-family: tahoma,helvetica,sans-serif; font-size:19px; }
+textarea {color:#F1F1F1; padding:3px; background:#262626; border:1px solid #9C9C9C; font-family: tahoma,helvetica,sans-serif; font-size:11px; }
 input:focus, textarea:focus{border:1px solid #CCC}
 blockquote{background:transparent url(images/blockquote.png) repeat; padding:5px; margin:10px; color:#F1F1F1 !important}
 input[type="submit"]:focus, input[type="button"]:focus{background:#333}
