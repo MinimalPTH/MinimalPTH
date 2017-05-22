@@ -41,7 +41,7 @@ textarea#quickpost{margin:0; padding:0}
 
 /* header layout */
 #header{position: relative; overflow: visible; height: 110px; z-index: 4;}
-#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(images/logo.png);}
+#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(images/red-minimal.png);}
 #logo a{width: 94px; height: 74px; display: block;}
 
 /* menu */
