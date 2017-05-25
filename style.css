@@ -37,7 +37,7 @@ textarea#quickpost{margin:0; padding:0}
 }
 
 /* wrapper */
-#wrapper{width: 980px; margin: 0 auto;}
+#wrapper{width: 1180px; margin: 0 auto;}
 
 /* header layout */
 #header{position: relative; overflow: visible; height: 110px; z-index: 4;}
@@ -366,7 +366,7 @@ strong.quoteheader {color: #f1f1f1;}
 /* #user .main_column table tr.colhead td{border-style:solid !important} */
 
 /* HOME AND ARTISTS */
-.main_column{width:700px}
+.main_column{width:900px}
 .sidebar{float:right; width:250px}
 .main_column table{margin:0 0 20px 0}
 .box table{margin:0; background-color:#FFF}
