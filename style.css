@@ -37,7 +37,7 @@ textarea#quickpost{margin:0; padding:0}
 }
 
 /* wrapper */
-#wrapper{width: 980px; margin: 0 auto;}
+#wrapper{width: 1180px; margin: 0 auto;}
 
 /* header layout */
 #header{position: relative; overflow: visible; height: 110px; z-index: 4;}
