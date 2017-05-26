@@ -622,7 +622,7 @@ tr.torrent .bookmark > a:after { content: ""; }
 .news_post img,
 .torrent_description img,
 .wiki_article img {
-	max-width: 680px;
+	max-width: 880px;
 }
 
 .torrentdetails img {
