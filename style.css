@@ -652,15 +652,20 @@ tr.torrent .bookmark > a:after { content: ""; }
 	max-width: 825px;
 }
 
-#torrent_details td pre {
-   width: 820px;
+#torrent_details pre {
+   width: 827px;
    border: none;
    padding: 15px;
+   border: 1px dotted;
 }
 
-blockquote[style="width:820px"] {
-border: none;
-padding: 0;
-background: transparent;
-margin: 0;
+#torrent_details blockquote[style="width:540px"] {
+	border: none;
+	padding: 0;
+	background: transparent;
+	margin: 0;
+}
+
+#torrent_details blockquote[style="width:540px"] h3 {
+    display: none;
 }
