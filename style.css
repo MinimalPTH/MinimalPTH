@@ -658,3 +658,9 @@ tr.torrent .bookmark > a:after { content: ""; }
    border: dotted #555;
    padding: 15px;
 }
+
+blockquote[style="width:820px"] {
+border: none;
+padding: 0;
+margin: 0;
+}
