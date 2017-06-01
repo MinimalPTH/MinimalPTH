@@ -655,12 +655,13 @@ tr.torrent .bookmark > a:after { content: ""; }
 
 #torrent_details td pre {
    width: 820px;
-   border: dotted #555;
+   border: none;
    padding: 15px;
 }
 
 blockquote[style="width:820px"] {
 border: none;
 padding: 0;
+background: transparent;
 margin: 0;
 }
