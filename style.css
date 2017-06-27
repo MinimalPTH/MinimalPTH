@@ -652,24 +652,13 @@ tr.torrent .bookmark > a:after { content: ""; }
 	max-width: 825px;
 }
 
-#torrent_details pre {
-   width: 827px;
-   border: none;
-   padding: 15px;
-   border: 1px dotted;
-}
-
-#reportsv2 .manage_form img {
-	max-width: 825px;
-}
-#torrent_details blockquote[style="width:540px"] {
-     width: 850px !important;
- 	 margin: 5;
-}
-
 blockquote {
-	border: 1px dotted;
-	padding: 10px;
-	margin-left: 10px;
+    border: 1px dotted;
+    padding: 10px;
+    margin-left: 10px;
 }
 
+#torrent_details blockquote[style="width:540px"] {
+    width: 850px !important;
+	margin: 5;
+}
